@@ -10,7 +10,7 @@ BeBack.AI is a minimalist web application designed to deliver a simple and elega
 To get started with BeBack.AI, clone the repository and open `index.html` in your web browser. No additional setup is required as the project is purely front-end.
 
 ```bash
-git clone https://github.com/yourusername/BeBack.AI.git
+git clone https://github.com/elithaxxor/BeBack.AI.git
 cd BeBack.AI
 open index.html
 ```
